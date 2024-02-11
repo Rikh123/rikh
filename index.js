@@ -30,18 +30,7 @@ const songs = [
         displayName: 'Lapthokkhro',
         cover: 'assets/3.jpg',
         artist: 'Innocent Eyes',
-    },
-    {
-        path: 'assets/2.mp3',
-        displayName: 'Koinare Koinare',
-        cover: 'assets/2.jpg',
-        artist: 'Ak yanggon,Linda',
-    },
-    {
-        path: 'assets/3.mp3',
-        displayName: 'Lapthokkhro',
-        cover: 'assets/3.jpg',
-        artist: 'Innocent Eyes',
+    
     },{
         path: 'assets/4.mp3',
         displayName: 'Liklaiba',
