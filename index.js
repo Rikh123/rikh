@@ -15,22 +15,85 @@ const music = new Audio();
 const songs = [
     {
         path: 'assets/1.mp3',
-        displayName: 'The Charmer\'s Call',
+        displayName: 'Insinluba Twdana',
         cover: 'assets/1.jpg',
-        artist: 'Hanu Dixit',
+        artist: 'Aj Maisnam, Thaja Chanu',
     },
     {
         path: 'assets/2.mp3',
-        displayName: 'You Will Never See Me Coming',
+        displayName: 'Koinare Koinare',
         cover: 'assets/2.jpg',
-        artist: 'NEFFEX',
+        artist: 'Ak yanggon,Linda',
     },
     {
         path: 'assets/3.mp3',
-        displayName: 'Intellect',
+        displayName: 'Lapthokkhro',
         cover: 'assets/3.jpg',
-        artist: 'Yung Logos',
-    }
+        artist: 'Innocent Eyes',
+    },
+    {
+        path: 'assets/2.mp3',
+        displayName: 'Koinare Koinare',
+        cover: 'assets/2.jpg',
+        artist: 'Ak yanggon,Linda',
+    },
+    {
+        path: 'assets/3.mp3',
+        displayName: 'Lapthokkhro',
+        cover: 'assets/3.jpg',
+        artist: 'Innocent Eyes',
+    },{
+        path: 'assets/4.mp3',
+        displayName: 'Liklaiba',
+        cover: 'assets/4.jpg',
+        artist: 'Pretty Yumnam',
+    },
+    {
+        path: 'assets/5.mp3',
+        displayName: 'Lonthoktabi',
+        cover: 'assets/5.jpg',
+        artist: 'Amarjeet, Pusparani',
+    },{
+        path: 'assets/6.mp3',
+        displayName: 'Magun Leina',
+        cover: 'assets/6.jpg',
+        artist: 'Amarjeet, Pusparani',
+    },
+    {
+        path: 'assets/7.mp3',
+        displayName: 'Naitom Satpi',
+        cover: 'assets/7.jpg',
+        artist: 'Malemleima Talem',
+    },
+    {
+        path: 'assets/8.mp3',
+        displayName: 'Nijage',
+        cover: 'assets/8.jpg',
+        artist: 'Kaiku Yumnam, Emarel',
+    }, {
+        path: 'assets/9.mp3',
+        displayName: 'Apaiba Leichel',
+        cover: 'assets/9.jpg',
+        artist: 'Seihum',
+    }, {
+        path: 'assets/10.mp3',
+        displayName: 'Tahallone',
+        cover: 'assets/10.jpg',
+        artist: 'Hitler, Pusparani',
+    }, {
+        path: 'assets/11.mp3',
+        displayName: 'Thawai Anise',
+        cover: 'assets/11.jpg',
+        artist: 'Arbin Soibam, Pusparani',
+    }, {
+        path: 'assets/12.mp3',
+        displayName: 'Thawai Yaodana',
+        cover: 'assets/12.jpg',
+        artist: 'Raj Englangbam, Surma',
+    },
+
+    
+    
 ];
 
 let musicIndex = 0;
