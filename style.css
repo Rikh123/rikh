@@ -38,7 +38,7 @@ body{
 }
 
 .container{
-    background-color: #e7e7e7;
+    background-color: #d3b5b59a;
     height: 500px;
     width: 400px;
     border-radius: 20px;
@@ -54,7 +54,7 @@ body{
     width: 300px;
     height: 300px;
     position: relative;
-    top: -50px;
+    top: -5px;
     left: 50px;
 }
 
@@ -64,11 +64,11 @@ body{
     height: 0;
     width: 0;
     opacity: 0;
-    box-shadow: 0 5px 30px 5px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 5px 30px 5px rgba(18, 2, 2, 0.797);
 }
 
 .player-img:hover img{
-    box-shadow: 0 5px 30px 5px rgba(0, 0, 0, 0.8);
+    box-shadow: 0 5px 30px 5px rgba(13, 1, 1, 0.8);
 }
 
 .player-img img.active{
@@ -93,7 +93,7 @@ h3{
 }
 
 .player-progress{
-    background-color: #fff;
+    background-color: #ffffff;
     border-radius: 5px;
     cursor: pointer;
     margin: 40px 20px 35px;
@@ -102,7 +102,7 @@ h3{
 }
 
 .progress{
-    background-color: #212121;
+    background-color: #000000;
     border-radius: 5px;
     height: 100%;
     width: 0%;
@@ -125,7 +125,7 @@ h3{
 
 .fa-solid{
     font-size: 30px;
-    color: #666;
+    color: #26056c;
     margin-right: 30px;
     cursor: pointer;
     user-select: none;
@@ -133,11 +133,11 @@ h3{
 }
 
 .fa-solid:hover{
-    filter: brightness(40%);
+    filter: brightness(500%);
 }
 
 .play-button{
     font-size: 44px;
     position: relative;
-    top: 3px;
+    top: 5px;
 }
